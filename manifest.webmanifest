@@ -1,13 +1,13 @@
 {
- "name": "Cook On Board",
- "short_name": "Cook On Board",
+ "name": "COB",
+ "short_name": "COB",
  "description": "Recueil de recettes, menus et liste de courses pour cuisiner à bord",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
- "background_color": "#f4ecdc",
- "theme_color": "#f4ecdc",
+ "background_color": "#0d1b2a",
+ "theme_color": "#0d1b2a",
  "lang": "fr",
  "icons": [
   {
